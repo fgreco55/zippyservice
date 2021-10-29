@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Zippy Service</string>
+    <string name="enter_zipcode">Enter Zipcode</string>
+    <string name="submit">Submit</string>
+</resources>
