@@ -11,7 +11,7 @@
         android:id="@+id/message"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Accessing Zip Code Info..."
+        android:text="@string/accessing_zip_code_info"
         android:textSize="32sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -46,7 +46,7 @@
         android:id="@+id/results_textview"
         android:layout_width="405dp"
         android:layout_height="347dp"
-        android:text="XML Results..."
+        android:text="@string/xml_results"
         android:textSize="32sp"
 
         app:layout_constraintBottom_toBottomOf="parent"

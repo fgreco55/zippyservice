@@ -2,4 +2,6 @@
     <string name="app_name">Zippy Service</string>
     <string name="enter_zipcode">Enter Zipcode</string>
     <string name="submit">Submit</string>
+    <string name="accessing_zip_code_info">Accessing Zip Code Info...</string>
+    <string name="xml_results">XML Results...</string>
 </resources>
